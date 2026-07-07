@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/manishdotin/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/manishdotin/LeetCode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
