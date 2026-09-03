@@ -87,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3580-find-consistently-improving-employees](https://github.com/manishdotin/LeetCode/tree/master/3580-find-consistently-improving-employees) |
 | [3586-find-covid-recovery-patients](https://github.com/manishdotin/LeetCode/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/manishdotin/LeetCode/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/manishdotin/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/manishdotin/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
