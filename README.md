@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3497-analyze-subscription-conversion](https://github.com/manishdotin/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/manishdotin/LeetCode/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/manishdotin/LeetCode/tree/master/3554-find-category-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/manishdotin/LeetCode/tree/master/3564-seasonal-sales-analysis) |
 | [3580-find-consistently-improving-employees](https://github.com/manishdotin/LeetCode/tree/master/3580-find-consistently-improving-employees) |
 | [3586-find-covid-recovery-patients](https://github.com/manishdotin/LeetCode/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/manishdotin/LeetCode/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
