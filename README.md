@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-find-invalid-ip-addresses](https://github.com/manishdotin/LeetCode/tree/master/3451-find-invalid-ip-addresses) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/manishdotin/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/manishdotin/LeetCode/tree/master/3475-dna-pattern-recognition) |
+| [3482-analyze-organization-hierarchy](https://github.com/manishdotin/LeetCode/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/manishdotin/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/manishdotin/LeetCode/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/manishdotin/LeetCode/tree/master/3554-find-category-recommendation-pairs) |
