@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manishdotin/LeetCode/tree/master/0001-two-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manishdotin/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-print-zero-even-odd](https://github.com/manishdotin/LeetCode/tree/master/1116-print-zero-even-odd) |
 | [1195-fizz-buzz-multithreaded](https://github.com/manishdotin/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/manishdotin/LeetCode/tree/master/1226-the-dining-philosophers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/manishdotin/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
