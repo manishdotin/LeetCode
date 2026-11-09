@@ -95,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishdotin/LeetCode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/manishdotin/LeetCode/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manishdotin/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/manishdotin/LeetCode/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manishdotin/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Concurrency
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishdotin/LeetCode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/manishdotin/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
